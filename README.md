@@ -4,6 +4,7 @@
 
 # Почему Dart и Flutter?
 Первое, продукты Google.
+
 Второе:
 - https://community.appinventor.mit.edu/t/how-to-export-blocks-as-dart-code-for-flutter/10013
 - https://community.appinventor.mit.edu/t/google-summer-of-code-contributor/53041/6
